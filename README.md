@@ -60,7 +60,7 @@ vault.config.json
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/foldervault.git
+git clone https://github.com/amol071/foldervault.git
 cd foldervault
 ```
 
