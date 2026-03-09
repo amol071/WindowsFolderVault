@@ -1,0 +1,43 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build artifacts
+obj/
+Debug/
+Release/
+
+## Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+## Logs
+*.log
+
+## Test results
+TestResults/
+
+## NuGet
+*.nupkg
+packages/
+!packages/build/
+!packages/repositories.config
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Publish profiles (optional: ignore if they contain machine-specific settings)
+# *.pubxml.user
+
+## Generated files
+*.cache
+*.pdb
+*.mdb
+
+## Keep bin folder included
+!bin/
+!bin/**
